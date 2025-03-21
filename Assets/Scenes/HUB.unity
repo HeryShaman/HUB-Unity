@@ -5319,6 +5319,71 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1590125353425189739, guid: 7b9fcc5c97a657f4ab30edcd7185eb78, type: 3}
   m_PrefabInstance: {fileID: 1320483549}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1338256825
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -182.711
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.09
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.54
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8795661
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.47577685
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -56.82
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_Name
+      value: Castle Guard 02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0e48a3ebff951cf4690f84bf84b6d2c1, type: 3}
 --- !u!1001 &1340774801
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7859,3 +7924,4 @@ SceneRoots:
   - {fileID: 1503935383}
   - {fileID: 1741053511}
   - {fileID: 1609143826}
+  - {fileID: 1338256825}

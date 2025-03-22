@@ -11,14 +11,14 @@ public class TriggerSeePlayer : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Guard_02Anim.SetTrigger("punch");
+            Guard_02Anim.SetTrigger("THello");
         }
     }
     private void OnTriggerExit(Collider other)
     {
         if(other.CompareTag("Player"))
         {
-            Guard_02Anim.SetTrigger("hello");
+            Guard_02Anim.SetTrigger("TPunch");
         }
     }
 }
